@@ -20,6 +20,6 @@
  <p align='center'>
   Computer Science student from Ireland and studying in Madrid, Spain. <br/><br/>
   Languages: <br/><br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <br/><br/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <br/><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <br/><br/>
 </p>
