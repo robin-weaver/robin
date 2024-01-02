@@ -13,10 +13,6 @@
   </a>&nbsp;&nbsp;
   
 </p>
- 
- <p align='center'>
-  QA Automation, Eyas Gaming <br/><br/>
- </p>
 
  ### Projects & Demos
   - Golf ball flight simulator web app, powered by Pyscript: [Repository](https://github.com/robin-weaver/pyscript-demo) | [Site](https://pyscript-demo.vercel.app/)
