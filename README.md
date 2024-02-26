@@ -16,5 +16,5 @@
 
  ### Projects & Demos
   - [Running tracker web app](https://robin-weaver.github.io/runtracker/), minimal UI and features. Designed for mobile (who's bringing a laptop on a run?) | [Repository](https://github.com/robin-weaver/runtracker)
-  - [Basic ball flight simulator web app](https://pyscript-demo.vercel.app/), an experiment with Pyscript | [Repository](https://github.com/robin-weaver/pyscript-demo)
-  - Working on more right now!
+  - [Basic ball flight simulator web app](https://robin-weaver.github.io/pyscript-demo/), an experiment with Pyscript | [Repository](https://github.com/robin-weaver/pyscript-demo)
+  - Working on more!
